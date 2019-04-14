@@ -1,0 +1,10 @@
+C:\Users\Hector\source\repos\HotelsForWebservice\HotelsForWebservice\obj\Debug\HotelsForWebservice.csprojAssemblyReference.cache
+C:\Users\Hector\source\repos\HotelsForWebservice\HotelsForWebservice\obj\Debug\HotelsForWebservice.Hotels.resources
+C:\Users\Hector\source\repos\HotelsForWebservice\HotelsForWebservice\obj\Debug\HotelsForWebservice.Properties.Resources.resources
+C:\Users\Hector\source\repos\HotelsForWebservice\HotelsForWebservice\obj\Debug\HotelsForWebservice.csproj.GenerateResource.cache
+C:\Users\Hector\source\repos\HotelsForWebservice\HotelsForWebservice\obj\Debug\HotelsForWebservice.csproj.CoreCompileInputs.cache
+C:\Users\Hector\source\repos\HotelsForWebservice\HotelsForWebservice\bin\Debug\HotelsForWebservice.exe.config
+C:\Users\Hector\source\repos\HotelsForWebservice\HotelsForWebservice\bin\Debug\HotelsForWebservice.exe
+C:\Users\Hector\source\repos\HotelsForWebservice\HotelsForWebservice\bin\Debug\HotelsForWebservice.pdb
+C:\Users\Hector\source\repos\HotelsForWebservice\HotelsForWebservice\obj\Debug\HotelsForWebservice.exe
+C:\Users\Hector\source\repos\HotelsForWebservice\HotelsForWebservice\obj\Debug\HotelsForWebservice.pdb
